@@ -58,6 +58,14 @@ Data retention and deletion
 Data remains stored until the user deletes it, uninstalls the app, or removes exported backup files.
 If a user emails backup data for support or feedback, that email and attachment may be retained for a reasonable period to investigate issues, improve the product, and support beta testing.
 
+Data Deletion
+Instructa stores data locally on your device.
+If you have shared data with us (for example via email backup), you can request deletion by contacting:
+
+Instructa.app@gmail.com
+
+We will delete any data we hold upon request.
+
 Security:
 Instructa aims to handle stored data using standard platform storage and sharing mechanisms. Users should avoid storing unnecessary sensitive personal data in the app.
 
