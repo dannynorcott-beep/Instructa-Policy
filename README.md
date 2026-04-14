@@ -42,6 +42,7 @@ week and course structure
 activity history
 competency and progress data
 Backups are only exported, shared, or emailed when triggered by the user.
+Data exported from the app is handled via third-party services (e.g. email providers), which may apply their own security and encryption standards.
 
 Data sharing:
 Instructa does not automatically send user data to the developer from within the app.
